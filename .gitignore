@@ -32,3 +32,6 @@
 *.app
 
 build/
+.vscode/
+msvc/
+cmd_build/
